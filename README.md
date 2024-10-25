@@ -1,5 +1,6 @@
 <!-- Banner -->
-![Banner](https://i.ibb.co/YOUR-BANNER-IMAGE-LINK)
+![Banner]()
+
 
 <!-- Introduction -->
 <div align="center">
@@ -64,9 +65,17 @@
 
 ---
 
+
 <!-- Connect with Me -->
+<!-- Badge for Postman API Fundamentals -->
+<div align="center">
+  <a href="https://api.badgr.io/public/assertions/8d69NDEIQr2YL4RhyyTGNw?identity__email=vishwas16.edu%40gmail.com" target="_blank">
+    <img src="https://github.com/user-attachments/assets/2aff5e31-b102-43a7-8a66-4032a7ccde38" alt="Badge: Postman API Fundamentals Student Expert" width="330" height="330" />
+    
+  </a>
+</div>
 
-
+---
 
 
 > “Trying to learn something new every day!”
