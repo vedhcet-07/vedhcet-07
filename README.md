@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner]()
+![Banner](https://github.com/vedhcet-07/vedhcet-07/blob/cb5b71b5c5039ec466b10c409f2611f76cf9bc37/src/White%20Minimalist%20Profile%20LinkedIn%20Banner.png)
 
 
 <!-- Introduction -->
